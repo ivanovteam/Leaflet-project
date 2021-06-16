@@ -40,7 +40,7 @@ Your first task is to visualize an earthquake data set.
 ![5-Advanced](Images/satellite_tectonic_quake.png)
 
 The USGS wants you to plot a second data set on your map to illustrate the relationship between tectonic plates and seismic activity on a satellite map. 
-
+ 
 
 
 - - -
